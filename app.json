@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lc-expo-test",
-    "slug": "lc-expo-test",
+    "name": "esoft-cw",
+    "slug": "esoft-cw",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mhmaarafath.esoftcw"
     },
     "web": {
       "favicon": "./assets/favicon.png"
